@@ -3,9 +3,9 @@
 
 This repository is a playground for exploring the fascinating world of quantum computing using Qiskit, IBM's open-source quantum computing framework. Whether you're a curious beginner or an experienced quantum enthusiast, this repository offers a diverse collection of quantum codes, algorithms, and experiments to spark your imagination and deepen your understanding of quantum principles.
 
-## Contributers
--[Abdur Rehman Rehan](https://github.com/Abdur-Rehman-Rehan)
--[Abdul Mohiz](https://github.com/AMevans12)
+## Contributors
+[Abdur Rehman Rehan](https://github.com/Abdur-Rehman-Rehan)  
+[Abdul Mohiz](https://github.com/AMevans12)
 
 ## Features
 
@@ -24,8 +24,8 @@ Several codes in this repository were executed on real quantum hardware through 
 ## Getting Started
 
 ### Tips
--Avoid running minor code changes directly on IBM Quantum computers when using free credits, as it can be time-consuming. Instead, test your code locally first, and once it works as expected, run it on IBM Quantum Computers to validate the results.
--There will be deviation from expected results, it will not be too great, it is due to the presence of quantum noise which causes noticeable differences!
+Avoid running minor code changes directly on IBM Quantum computers when using free credits, as it can be time-consuming. Instead, test your code locally first, and once it works as expected, run it on IBM Quantum Computers to validate the results.  
+There will be deviation from expected results, it will not be too great, it is due to the presence of quantum noise which causes noticeable differences!
 
 ### Installation
 Ensure you have Qiskit installed on your system. You can install it via pip:
